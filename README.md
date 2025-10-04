@@ -1,4 +1,4 @@
-# portfolio_
+# portfolio
 Project Overview
 
 Frontend: Next.js 14+ (React-based)
